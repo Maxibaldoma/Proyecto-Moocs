@@ -20,8 +20,6 @@ Cada archivo CSV ha sido procesado y analizado para extraer información relevan
 
 ## Informe de Análisis
 
-Coursera:
-
 El promedio de rating de los cursos en Coursera es alto, lo cual indica que los estudiantes están satisfechos con la calidad de los cursos ofrecidos en esta plataforma.
 La alta calificación de los cursos en Coursera puede ser un factor importante para atraer a más estudiantes y aumentar la participación en la plataforma.
 edX:
