@@ -30,6 +30,8 @@ Udemy:
 
 En Udemy, existe una relación baja entre el precio de los cursos y el número de suscriptores, aún sin tomar en cuenta los cursos gratuitos.
 Esta relación sugiere que los estudiantes en Udemy valoran más la accesibilidad y el contenido del curso en lugar del precio. Los cursos con precios más bajos pueden atraer a un mayor número de suscriptores.
+
+
 En resumen, los datos del análisis revelan que Coursera tiene un alto promedio de rating, edX ofrece cursos con un buen promedio de precio en relación con los certificados, y en Udemy existe una relación baja entre el precio y el número de suscriptores. Estas conclusiones pueden ser útiles para comprender las fortalezas y características de cada plataforma educativa y pueden guiar estrategias futuras para atraer a más estudiantes y mejorar la participación.
 
 
